@@ -7,7 +7,6 @@
 - [Project Description](#project-description)
 - [Brief](#brief)
 - [Technologies used](#technologies-used)
-- [Planning](#planning)
 - [Build](#build)
 - [Known bugs](#known-bugs)
 - [Wins and Challenges](#wins)
