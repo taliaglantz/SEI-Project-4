@@ -4,7 +4,6 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Project Description](#project-description)
 - [Brief](#brief)
 - [Technologies used](#technologies-used)
 - [Build](#build)
@@ -16,14 +15,11 @@
 <a name="overview"></a>
 ## Overview
 This project was my fourth and final project created during General Assembly’s Software Engineering Immersive Course, which I completed from September-December 2021.
-
-### Goal 
-Either solo or as a group, build a full-stack application with a React front-end and a Django back-end.
-
+<strong>The goal</strong>: As a group, build a full-stack application with a React front-end and a Django back-end.
+TKG Fashion is an e-commerce website that allows users to browse through clothes from a range of sellers. Items can be filtered by certain categories and also displayed by random. If users are logged in, they are able to add items to their basket and also review items. 
 
 ### Timeframe
 9 days
-
 
 ### Deployed link
 https://tkg-fashion-site.herokuapp.com/ 
@@ -37,10 +33,6 @@ https://tkg-fashion-site.herokuapp.com/
 Please feel free to use the following login credentials:
 - Email: talia@email.com
 - Password: password2468
-
-<a name="project-description"></a>
-## Project description
-TKG Fashion is an e-commerce website that allows users to browse through clothes from a range of sellers. Items can be filtered by certain categories and also displayed by random. If users are logged in, they are able to add items to their basket and also review items. 
 
 <img src="client/src/assets/Screenshot 2022-01-10 at 14.16.24.png" alt="homepage" />
 
@@ -58,13 +50,14 @@ Here is the brief we were given:
 ### Back-end:
 - Python
 - Django
-- Psycopg2-binary
-- Pylint
-- Autopep8
+- PostgreSQL
+- Psycopg2-binary - postgreSQP library wrapper
+- Pylint - python linter
+- Autopep8 - python formatter
 - Django REST framework
-- Cloudinary
-- Pillow
-- Pyjwt
+- Cloudinary for image uploads
+- Pillow - python imaging library tool
+- Pyjwt for authentication in python
 
 
 ### Front-end:
@@ -72,9 +65,8 @@ Here is the brief we were given:
 - Axios
 - React Semantic UI (CSS Framework)
 - Animate css
-- Http proxy middleware
-- Pure react carousel
-- React router dom
+- Pure-react-carousel for carousel
+- React-router-dom for component-based routing
 
 
 ### Dev tools:
@@ -82,13 +74,11 @@ Here is the brief we were given:
 - Yarn
 - Insomnia
 - TablePlus
-- Git and GitHub
 - Google Chrome dev tools
-- Heroku (deployment)
-- Asana (planning and timeline)
-- Google Jamboard (Wireframe)
-- LucidChart (ERD)
-
+- Heroku for deployment
+- Asana for planning and timeline
+- Google Jamboard for wireframing
+- LucidChart for Entity Relationship Diagram (ERD)
 
 <a name="build"></a>
 ## Build
