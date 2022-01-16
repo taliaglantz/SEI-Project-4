@@ -36,7 +36,7 @@ const SimilarProducts = ( { category }) => {
             as='h2'
             content='👀 You may also like...'
           />
-          <Grid style={{ marginBottom: '10px' }}>
+          <Grid stackable style={{ marginBottom: '10px' }}>
             <Grid.Row columns={4}>
 
               {filterByCategory().map((product, index) => {

@@ -30,7 +30,7 @@ const Navbar = () => {
   console.log('PAYLOAD', payload)
 
   return (
-    <Menu style={{ padding: '0px 50px' }} color='teal' secondary inverted size='large' id='nav'>
+    <Menu stackable style={{ padding: '0px 50px' }} color='teal' secondary inverted size='large' id='nav'>
       <Container>
         <Menu.Item header as='a' href='/' position='left'>
           <Image style={{ marginRight: '10px' }} size='tiny' src='https://i.imgur.com/uOjwmDf.png' circular />

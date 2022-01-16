@@ -174,7 +174,7 @@ const ProductShow = () => {
       {product ?
         <>
           <Container>
-            <Grid divided='vertically'>
+            <Grid stackable divided='vertically'>
               <Grid.Row columns={2}>
                 <Grid.Column>
                   <Image className='animate__animated animate__slideInLeft' src={product.image_set !== undefined ? product.image_set[0].image : null} />

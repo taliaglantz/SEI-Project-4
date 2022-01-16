@@ -32,7 +32,7 @@ https://tkg-fashion-site.herokuapp.com/
 
 Please feel free to use the following login credentials:
 - Email: talia@email.com
-- Password: password2468
+- Password: Password2468
 
 <img src="client/src/assets/Screenshot 2022-01-10 at 14.16.24.png" alt="homepage" />
 

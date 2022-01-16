@@ -37,7 +37,7 @@ const Bag = () => {
 
   return (
 
-    <Grid columns={2} divided>
+    <Grid stackable columns={2} divided>
       <Grid.Row>
 
         <Grid.Column>

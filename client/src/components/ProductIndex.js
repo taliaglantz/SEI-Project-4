@@ -68,7 +68,7 @@ const ProductIndex = () => {
   return (
 
     <Container style={{ marginBottom: '10px' }} id='productindex-container'>
-      <Grid columns="two">
+      <Grid stackable columns="two">
         <Grid.Row>
           <Grid.Column width={3} textAlign="left">
             <Container className='animate__animated animate__slideInLeft'>
@@ -83,7 +83,7 @@ const ProductIndex = () => {
             </Container>
 
             <Container className='animate__animated animate__slideInLeft'>
-              <Menu style={{ margin: '10px' }} compact>
+              <Menu stackable style={{ margin: '10px' }} compact>
                 <Dropdown
                   placeholder="By Category"
                   value={categoryValue}
@@ -93,7 +93,7 @@ const ProductIndex = () => {
                   item
                 />
               </Menu>
-              <Menu style={{ margin: '10px' }} compact>
+              <Menu stackable style={{ margin: '10px' }} compact>
                 <Dropdown
                   placeholder="By Gender"
                   options={genderOptions}
@@ -102,7 +102,7 @@ const ProductIndex = () => {
                   item
                 />
               </Menu>
-              <Menu style={{ margin: '10px' }} compact>
+              <Menu stackable style={{ margin: '10px' }} compact>
                 <Dropdown
                   placeholder="By Price"
                   options={priceOptions}
@@ -116,7 +116,7 @@ const ProductIndex = () => {
 
           <Grid.Column width={13}>
             {products.length ?
-              <Card.Group itemsPerRow={3}>
+              <Card.Group stackable itemsPerRow={3}>
                 {filteredProducts.map(product => {
                   return (
                     <>
