@@ -15,8 +15,12 @@
 <a name="overview"></a>
 ## Overview
 This project was my fourth and final project created during General Assembly’s Software Engineering Immersive Course, which I completed from September-December 2021.
+
 <strong>The goal</strong>: As a group, build a full-stack application with a React front-end and a Django back-end.
+
 TKG Fashion is an e-commerce website that allows users to browse through clothes from a range of sellers. Items can be filtered by certain categories and also displayed by random. If users are logged in, they are able to add items to their basket and also review items. 
+
+We pair-programmed the majority of the backend, however I set-up the authentication and custom user model. On the front end, I created the product show page as well as the login and register modals.
 
 ### Timeframe
 9 days
