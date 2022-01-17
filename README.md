@@ -96,12 +96,12 @@ We then moved onto looking at our relationships. Given we were a group, we knew 
 
 We then set out to design our wireframe. We had a look at a few popular e-commerce websites and based our design and layout on those, remembering that the simpler the better! For our wireframes, we used Google Jamboard. I had never used this tool before so enjoyed learning about yet another wireframing site.
 
-<img src="client/src/assets/Wireframe - Project 4 1.png" alt="Wireframe - homepage" width=300/>
-<img src="client/src/assets/Wireframe - Project 4 3.png" alt="Wireframe - login/register" width=300/>
-<img src="client/src/assets/Wireframe - Project 4 4.png" alt="Wireframe - index" width=300/>
-<img src="client/src/assets/Wireframe - Project 4 5.png" alt="Wireframe - showpage" width=300/>
-<img src="client/src/assets/Wireframe - Project 4 6.png" alt="Wireframe - similar items" width=300/>
-<img src="client/src/assets/Wireframe - Project 4 7.png" alt="Wireframe - bag" width=300/>
+<img src="client/src/assets/Wireframe - Project 4 1.png" alt="Wireframe - homepage" width=450/>
+<img src="client/src/assets/Wireframe - Project 4 3.png" alt="Wireframe - login/register" width=450/>
+<img src="client/src/assets/Wireframe - Project 4 4.png" alt="Wireframe - index" width=450/>
+<img src="client/src/assets/Wireframe - Project 4 5.png" alt="Wireframe - showpage" width=450/>
+<img src="client/src/assets/Wireframe - Project 4 6.png" alt="Wireframe - similar items" width=450/>
+<img src="client/src/assets/Wireframe - Project 4 7.png" alt="Wireframe - bag" width=450/>
 
 Finally, we compartmentalised our tasks on Asana and ensured we managed our time correctly by having a distinct “stretch goals” section. This section would only be touched when the MVP had been reached. Every morning and late afternoon we looked at the Asana board and assessed our progress, we also discussed our current tasks and talked through potential blockers. We used Git and GitHub for version control and always did our pushes and pulls together to avoid conflict flare-ups. 
 
